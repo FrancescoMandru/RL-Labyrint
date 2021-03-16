@@ -28,6 +28,6 @@ discount --> #discount factor applied
 epsilon --> #epsilon greedy policy 
 ```
 
-Labyrint visual example and the path selected by the trained agent.
+Labyrinth visual example and the path selected by the trained agent.
 
 ![](./image/lab.png)
